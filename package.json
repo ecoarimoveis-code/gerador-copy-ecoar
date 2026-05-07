@@ -1,0 +1,17 @@
+{
+  "name": "gerador-copy-ecoar",
+  "version": "1.0.0",
+  "description": "Gerador de copy para imóveis Ecoar",
+  "main": "api/generate.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": [
+    "ecoar",
+    "real estate",
+    "copy"
+  ],
+  "author": "Felipe Ecoar",
+  "license": "MIT"
+}
